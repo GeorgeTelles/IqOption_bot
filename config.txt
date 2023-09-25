@@ -1,0 +1,14 @@
+[LOGIN]
+email = xxx
+senha = yyy
+
+[AJUSTES]
+valor_entrada = 5
+tipo = digital
+stop_win = 1000
+stop_loss = 1000
+
+[MARTINGALE]
+usar_martingale = N
+niveis_martingale = 2
+fator_martingale = 2

@@ -1,0 +1,15 @@
+Esse é um robô que fa login na corretora de opções binarias IQ Option, ele analisa o grafico do ativo escolhido e abre a operação seguindo a estrategia definida nos parametros tambem definidos pelo operador.
+
+
+a estrategia padrão desse robo~e é a MHI, porem podem ser feitas modificações no arquivos.
+
+o robo pela como input as seguintes informações:
+ativo, valor de entrada, direcao (call ou put), expiração e tipo de contrato (binarias ou digital)
+
+
+Instruções
+baixar as APIs da IQoption
+https://github.com/iqoptionapi/iqoptionapi
+
+instalar o websocket
+pip install websocket-client==1.5.1

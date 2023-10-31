@@ -1,6 +1,6 @@
 [LOGIN]
-email = xxx
-senha = yyy
+email = george_1@hotmail.com.br
+senha = Gt93Pd79
 
 [AJUSTES]
 valor_entrada = 5
